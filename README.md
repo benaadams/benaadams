@@ -1,19 +1,16 @@
 I make things faster 🚀
 
 ### Current
----
-* Contrbutor to [.NET Runtime](https://github.com/dotnet/runtime), [ASP.NET Core](https://github.com/dotnet/aspnetcore)
+* Contributor to [.NET Runtime](https://github.com/dotnet/runtime), [ASP.NET Core](https://github.com/dotnet/aspnetcore)
 * .NET Foundation Technical Steering Group member
 * .NET Foundation "Growing the .NET ecosystem" working group member
 
 ### Previously 
----
 * .NET Foundation Board of Director
 
 ## Sponsorships
 I'm using [GitHub Sponsors 💗](https://github.com/sponsors/benaadams) to support my open source work on .NET, ASP​.NET Core and the .NET ecosystem.
 
----
 ## 🥇 Gold Sponsors
 ### Exceptionless 
 To be without exception. 
