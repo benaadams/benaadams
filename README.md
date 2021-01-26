@@ -2,11 +2,12 @@ I make things faster 🚀
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=benaadams&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_rank=true">
 
-### Current
+**Current**
 * Contributor to [.NET Runtime](https://github.com/dotnet/runtime), [ASP.NET Core](https://github.com/dotnet/aspnetcore)
 * .NET Foundation Technical Steering Group member
 * .NET Foundation "Growing the .NET ecosystem" working group member
-### Previously 
+
+**Previously**
 * .NET Foundation Board of Director
 
 ## Sponsorships
