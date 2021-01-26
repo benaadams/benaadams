@@ -7,7 +7,7 @@ I make things faster 🚀
 * .NET Foundation Technical Steering Group member
 * .NET Foundation "Growing the .NET ecosystem" working group member
 
-### Previously
+#### Previously
 * .NET Foundation Board of Director
 
 ---
