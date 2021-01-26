@@ -1,6 +1,6 @@
 I make things faster 🚀
 
-### Open source 
+## Open source 
 <img align="left" hspace="5" src="https://github-readme-stats.vercel.app/api?username=benaadams&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_rank=true">
 
 * Contributor to [.NET Runtime](https://github.com/dotnet/runtime), [ASP.NET Core](https://github.com/dotnet/aspnetcore)
