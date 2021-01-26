@@ -1,5 +1,7 @@
 I make things faster 🚀
 
+![](https://github-readme-stats.vercel.app/api?username=benaadams&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
+
 ### Current
 * Contributor to [.NET Runtime](https://github.com/dotnet/runtime), [ASP.NET Core](https://github.com/dotnet/aspnetcore)
 * .NET Foundation Technical Steering Group member
