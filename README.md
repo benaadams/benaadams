@@ -5,6 +5,8 @@ I make things faster 🚀
 * .NET Foundation Technical Steering Group member
 * .NET Foundation "Growing the .NET ecosystem" working group member
 
+![](https://github-readme-stats.vercel.app/api?username=benaadams&count_private=true&show_icons=true&theme=dark)
+
 ### Previously 
 * .NET Foundation Board of Director
 
